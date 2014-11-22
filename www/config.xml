@@ -7,7 +7,7 @@
     <author email="support@phonegap.com" href="http://phonegap.com">
         BrainTeam
     </author>
-    <preference name="SplashScreen" value="screen" />
+    <preference name="SplashScreen" value="splash" />
     <preference name="SplashScreenDelay" value="20000" />
     <preference name="permissions" value="none" />
     <preference name="phonegap-version" value="3.5.0" />
